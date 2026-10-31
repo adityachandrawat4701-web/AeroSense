@@ -1,4 +1,4 @@
-# AeroSense ✈️
+# AeroSense
 ## About the Project
 
 I started AeroSense out of curiosity about Machine Learning. I wanted to understand how ML actually works, how models are trained, how datasets are created and how they make predictions.

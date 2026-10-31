@@ -1,0 +1,2 @@
+# AeroSense
+I started AeroSense out of curiosity and as a way to explore flight simulation and machine learning. I wanted to understand how aircraft flight data is generated, how sensor disturbances affect measurements, and how an ML model can identify different flight phases. The project was built entirely using AI-generated code, mainly as a hands-on learning experiment to explore these concepts and understand how everything works together.
